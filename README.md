@@ -1,19 +1,23 @@
 <div align="center">
 
 ![Real?](https://user-images.githubusercontent.com/73308647/230811645-39d10ae7-0762-4f00-a249-f9bbbbc56476.gif)
-
+  
 ### Hi there 👋, I'm Mohamed Atef.
 
 ---
 
 Studying Electronics and Communications Engineering at <a href="Mansoura University">Mansoura University</a>.  
 Interested in AI, ML, Dl, Computer Vision, NLP and Music.
-
+  
+<!--
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Mohamed%20Atef/Software%20Engineer/Student/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73308647%3Fv%3D4)](https://www.linkedin.com/in/mohamed-atef-651099193/)
+-->
+  
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtef321&show_icons=true&theme=tokyonight)
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact)](https://github.com/MohamedAtef321/github-readme-stats)
 
-[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Mohamed%20Atef/Software%20Engineer/Student/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73308647%3Fv%3D4)](https://www.linkedin.com/in/mohamed-atef-651099193/)
+
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Mohamed%20Atef-4267B2?style=flat&logo=facebook
 )](https://www.facebook.com/www.xzorro/)
