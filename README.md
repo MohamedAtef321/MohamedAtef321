@@ -13,6 +13,8 @@ Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact)](https://github.com/MohamedAtef321/github-readme-stats)
 
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Mohamed%20Atef/Software%20Engineer/Student/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73308647%3Fv%3D4)](https://www.linkedin.com/in/mohamed-atef-651099193/)
+
 **MohamedAtef321/MohamedAtef321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
