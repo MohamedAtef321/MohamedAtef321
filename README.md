@@ -44,3 +44,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 </div>
+
+```python
+class MustafaHani():
+    
+  def __init__(self):
+    self.age = 21
+    self.username = "catb1t"
+    self.location = "Giza, Cairo"
+    self.learning = ["Machine Learning", "Computer Vision", "Deep Learning"]
+    self.interests = ["Running", "Drums", "Esports", "Music"]
+    self.funfact = "I used to be a pro CS:GO player"
+    
+  def __skills__(self):
+    self.languages = ["C++", "C#", "Python", "Java"]
+    self.libraries = ["TensorFlow", "OpenCV", "sklearn", "Matplotlib", "Seaborn"]
+    self.frameworks = ["Unity"]
+```
