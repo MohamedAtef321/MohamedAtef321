@@ -9,7 +9,7 @@
 Studying Electronics and Communications Engineering at <a href="Mansoura University">Mansoura University</a>.  
 Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtef321&show_icons=true&theme=tokyonight)
 
 **MohamedAtef321/MohamedAtef321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
