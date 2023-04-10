@@ -6,7 +6,7 @@
 
 ---
 
-Studying Computer Sciecne & Artificial Intelligence at <a href="Cairo University">Cairo University</a>.  
+Studying Electronics and Communications Engineering at <a href="Mansoura University">Mansoura University</a>.  
 Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 
 **MohamedAtef321/MohamedAtef321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
