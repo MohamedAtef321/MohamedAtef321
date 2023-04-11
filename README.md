@@ -6,7 +6,7 @@
 
 ---
 
-Studying Electronics and Communications Engineering at <a href="Mansoura University">Mansoura University</a>.  
+Studying Electronics and Communication Engineering at <a href="Mansoura University">Mansoura University</a>.  
 Interested in AI, ML, Dl, Computer Vision, NLP and Music.
   
 <!--
@@ -48,18 +48,16 @@ Here are some ideas to get you started:
 </div>
 
 ```python
-class MustafaHani():
+class Mohamed_Atef():
     
   def __init__(self):
-    self.age = 21
-    self.username = "catb1t"
-    self.location = "Giza, Cairo"
-    self.learning = ["Machine Learning", "Computer Vision", "Deep Learning"]
-    self.interests = ["Running", "Drums", "Esports", "Music"]
-    self.funfact = "I used to be a pro CS:GO player"
+    self.age = 23
+    self.phone = "+201013494575"
+    self.location = "El-Mahalla El-Kubra, Gharbia, Egypt"
+    self.learning = ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Deep Learning", "Natural Language Processing"]
+    self.interests = ["Running", "League of Legends", "Music"]
     
   def __skills__(self):
-    self.languages = ["C++", "C#", "Python", "Java"]
-    self.libraries = ["TensorFlow", "OpenCV", "sklearn", "Matplotlib", "Seaborn"]
-    self.frameworks = ["Unity"]
+    self.languages = ["Python", "C/C++", "Java", "Dart", "HTML", "CSS", "JavaScript"]
+    self.libraries = ["TensorFlow", "PyTorch", "OpenCV", "sklearn", "Matplotlib", "Seaborn", "Django", "Flask"]
 ```
