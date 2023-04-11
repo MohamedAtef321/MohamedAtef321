@@ -61,3 +61,15 @@ class Mohamed_Atef():
     self.languages = ["Python", "C/C++", "Java", "Dart", "HTML", "CSS", "JavaScript"]
     self.libraries = ["TensorFlow", "PyTorch", "OpenCV", "sklearn", "Matplotlib", "Seaborn", "Django", "Flask"]
 ```
+
+
+<div align="center">
+
+Love listening to music? listen along with me:
+  
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
+
+</div>
+
+
+
