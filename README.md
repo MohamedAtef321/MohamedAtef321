@@ -11,7 +11,6 @@ Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 [![linkedin](https://linkedin-github-readme.onrender.com/api/render/Mohamed%20Atef/Software%20Engineer/Student/Bachelors%20degree/dark/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F73308647%3Fv%3D4)](https://www.linkedin.com/in/mohamed-atef-651099193/)
 -->
   
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtef321&show_icons=true&theme=tokyonight)
 
 ## 🔗 Let's Connect!
   
@@ -27,8 +26,6 @@ Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 )](mailto:www.xzorrodx@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact&theme=dark)](https://github.com/MohamedAtef321/github-readme-stats)
 
 <!--
   
@@ -46,6 +43,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+## 📘 About me
 
 </div>
 
@@ -65,8 +64,10 @@ class Mohamed_Atef():
 ```
 
 <div align="center">
-  
 
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtef321&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact&theme=dark)](https://github.com/MohamedAtef321/github-readme-stats)
 
 <!--
 
