@@ -55,12 +55,16 @@ class Mohamed_Atef():
     self.age = 23
     self.phone = "+201013494575"
     self.location = "El-Mahalla El-Kubra, Gharbia, Egypt"
-    self.learning = ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Deep Learning", "Natural Language Processing"]
+    self.learning = ["Artificial Intelligence", "Machine Learning",
+                     "Computer Vision", "Deep Learning",
+                     "Natural Language Processing"]
     self.interests = ["Running", "League of Legends", "Music"]
     
   def __skills__(self):
-    self.languages = ["Python", "C/C++", "Java", "Dart", "HTML", "CSS", "JavaScript"]
-    self.libraries = ["TensorFlow", "PyTorch", "OpenCV", "sklearn", "Matplotlib", "Seaborn", "Django", "Flask"]
+    self.languages = ["Python", "C/C++", "Java", "Dart",
+                      "HTML", "CSS", "JavaScript"]
+    self.libraries = ["TensorFlow", "PyTorch", "OpenCV", "sklearn",
+                      "Matplotlib", "Seaborn", "Django", "Flask"]
 ```
 
 <div align="center">
