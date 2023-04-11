@@ -66,12 +66,16 @@ class Mohamed_Atef():
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact)](https://github.com/MohamedAtef321/github-readme-stats)
 
+<!--
+
 Love listening to music? listen along with me:
   
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?song=4V3obpHeMAdNMvixRmXKRk)](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3177622477l4ydwikdlrnpplrm3e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=3177622477l4ydwikdlrnpplrm3e&redirect=true)
+
+-->
 
 </div>
-
-
 
 
