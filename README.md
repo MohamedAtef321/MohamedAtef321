@@ -28,6 +28,8 @@ Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact&theme=dark)](https://github.com/MohamedAtef321/github-readme-stats)
+
 <!--
   
 **MohamedAtef321/MohamedAtef321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,7 +66,7 @@ class Mohamed_Atef():
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact)](https://github.com/MohamedAtef321/github-readme-stats)
+
 
 <!--
 
