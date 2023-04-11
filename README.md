@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 -->
 
-## 📘 About me
+## 📘 About Me
 
 </div>
 
