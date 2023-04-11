@@ -18,16 +18,18 @@ Interested in AI, ML, Dl, Computer Vision, NLP and Music.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact)](https://github.com/MohamedAtef321/github-readme-stats)
 
 
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Mohamed%20Atef-4267B2?style=flat&logo=facebook
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267B2?style=flat-square&logo=facebook&logoColor=white
 )](https://www.facebook.com/www.xzorro/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-TeFa564-blue?style=flat&logo=twitter
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white
 )](https://twitter.com/TeFa564)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Mohamed%20Atef-0072b1?style=flat&logo=linkedin
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mohamed-atef-651099193/)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Mohamed%20Atef-0096c7?style=flat&logo=kaggle)](https://www.kaggle.com/mohamedatef321)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-Mohamed%20Atef-1DB954?style=flat&logo=spotify)](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
-
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0096c7?style=flat-square&logo=kaggle&logoColor=white
+)](https://www.kaggle.com/mohamedatef321)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white
+)](mailto:www.xzorrodx@gmail.com)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white
+)](https://open.spotify.com/user/3177622477l4ydwikdlrnpplrm3e)
 
 
 **MohamedAtef321/MohamedAtef321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
