@@ -4,7 +4,7 @@
   
 ## Hi there 👋, I'm Mohamed Atef.
 
-Studying Electronics and Communication Engineering at <a href="Mansoura University">Mansoura University</a>.  
+Studied Electronics and Communication Engineering at <a href="Mansoura University">Mansoura University</a>.  
 Interested in AI, ML, Dl, Computer Vision, NLP and Music.
   
 <!--
