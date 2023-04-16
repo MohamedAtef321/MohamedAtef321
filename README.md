@@ -71,6 +71,8 @@ class Mohamed_Atef():
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedAtef321&show_icons=true&theme=tokyonight)
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAtef321&theme=github-dark-blue)](https://git.io/streak-stats)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAtef321&layout=compact&theme=dark)](https://github.com/MohamedAtef321/github-readme-stats)
 
 <!--
