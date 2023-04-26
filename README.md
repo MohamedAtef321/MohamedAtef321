@@ -46,8 +46,12 @@ Here are some ideas to get you started:
 
 ## 📘 About Me
 
-</div>
+[![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=MohamedAtef321)](https://github.com/antonkomarev/github-profile-views-counter)
+[![GitHib Followers](https://img.shields.io/github/followers/MohamedAtef321?label=Followers&logo=github
+)](https://github.com/MohamedAtef321/)
 
+</div>
+  
 ```python
 class Mohamed_Atef():
     
